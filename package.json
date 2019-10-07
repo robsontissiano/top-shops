@@ -1,0 +1,25 @@
+{
+  "name": "topshops",
+  "version": "1.0.0",
+  "description": "API to search by the top shops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robsontissiano/top-shops.git"
+  },
+  "author": "Robson Goncalves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robsontissiano/top-shops/issues"
+  },
+  "homepage": "https://github.com/robsontissiano/top-shops#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
